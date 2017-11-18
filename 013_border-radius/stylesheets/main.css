@@ -1,0 +1,31 @@
+div {
+	width: 300px;
+	height: 300px;
+	border: 1px solid blue;
+	border-radius: 100%;
+	background-image: url(../imgs/puppy.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+img {
+	border: 10px groove orangered;
+	border-radius: 100%
+
+}
+
+.dogone {
+	border: 10px dotted purple
+	border-radius: 100%;;
+}
+
+.dogtwo {
+	border: 10px dashed blue;
+	border-radius: 100%;
+}
+
+.dogthree {
+	border: 10px double pink;
+	border-radius: 100%;
+}
