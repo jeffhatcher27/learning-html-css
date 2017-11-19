@@ -1,0 +1,11 @@
+div {
+	width: 600px;
+	height: 300px;
+	padding: 0;
+	background-color: aqua;
+	border-radius: 2%;
+	border: 20px groove black;
+	background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/NASA.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}

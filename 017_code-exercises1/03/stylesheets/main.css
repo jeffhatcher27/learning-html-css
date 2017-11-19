@@ -1,0 +1,8 @@
+div {
+	width: 600px;
+	height: 300px;
+	padding: 0;
+	background-color: aqua;
+	border-radius: 2%;
+	border: 20px groove #cbbe80;
+}
